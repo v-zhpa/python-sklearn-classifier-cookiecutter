@@ -41,6 +41,8 @@ from pandas import read_table
 import numpy as np
 import matplotlib.pyplot as plt
 
+print('hello May 3rd')
+
 try:
     # [OPTIONAL] Seaborn makes plots nicer
     import seaborn

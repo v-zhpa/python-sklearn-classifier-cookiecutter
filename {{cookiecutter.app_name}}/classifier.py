@@ -48,7 +48,6 @@ except ImportError:
     pass
 
 # =====================================================================
-print('hello May 3rd')
 
 def download_data():
     '''
